@@ -7,6 +7,8 @@ Aliases used by CSW on Medium:
 
 <sub>(All datetimes are in UTC)</sub>
 
+[On-Chain Link](https://bico.media/79fcb269f0c1faad133b679444acea2c9cb8dd7c3ef292e5bbcd1ba71689ac86)
+
 ## CSW as Adam Selene
 1. <sub>2017-05-17 14:26</sub> [Bitcoin vs The Anti-Capitalistic Mentality](https://medium.com/@adam_selene/bitcoin-vs-the-anti-capitalistic-mentality-e0e4d1e8cb3a)
 1. <sub>2017-05-18 12:07</sub> [The Resentment of the Experts](https://medium.com/@adam_selene/the-resentment-of-the-experts-71401dbc5dd7)
