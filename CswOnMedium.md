@@ -237,3 +237,4 @@ Aliases used by CSW on Medium:
 1. <sub>2019-03-21 07:52</sub> [Privacy versus hypocrisy](https://medium.com/@craig_10243/privacy-versus-hypocrisy-bbb8c0809b9b)
 1. <sub>2019-03-22 06:00</sub> [Peer-to-peer digital electronic cash](https://medium.com/@craig_10243/peer-to-peer-digital-electronic-cash-369bb306028b)
 1. <sub>2019-03-24 14:56</sub> [Digital Rights Management: Serialised Media](https://medium.com/@craig_10243/digital-rights-management-serialised-media-2db1293cc348)
+1. <sub>2019-03-27 18:21</sub> [How to make a brain wallet](https://medium.com/@craig_10243/how-to-make-a-brain-wallet-a8040b7c1993)
