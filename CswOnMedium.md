@@ -240,3 +240,4 @@ Aliases used by CSW on Medium:
 1. <sub>2019-03-27 18:21</sub> [How to make a brain wallet](https://medium.com/@craig_10243/how-to-make-a-brain-wallet-a8040b7c1993)
 1. <sub>2019-03-28 18:49</sub> [Why the protocol is set](https://medium.com/@craig_10243/why-the-protocol-is-set-7db4f764c97c)
 1. <sub>2019-03-29 13:01</sub> [Locked transactions for planning](https://medium.com/@craig_10243/locked-transactions-for-planning-afeb01bac318)
+1. <sub>2019-03-30 13:46</sub> [Welcome to science](https://medium.com/@craig_10243/welcome-to-science-c5e33a827449)
