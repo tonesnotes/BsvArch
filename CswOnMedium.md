@@ -244,4 +244,5 @@ Aliases used by CSW on Medium:
 1. <sub>2019-03-29 13:01</sub> [Locked transactions for planning](https://medium.com/@craig_10243/locked-transactions-for-planning-afeb01bac318)
 1. <sub>2019-03-30 13:46</sub> [Welcome to science](https://medium.com/@craig_10243/welcome-to-science-c5e33a827449)
 1. <sub>2019-04-01 15:46</sub> [On testing and causal statements](https://medium.com/@craig_10243/on-testing-and-causal-statements-ce991f0c03e7)
+1. <sub>2019-04-03 16:55</sub> [Saving research](https://medium.com/@craig_10243/saving-research-97c9e63a3756)
 1. <sub>2019-04-03 07:48</sub> [Decentralized planning](https://medium.com/@craig_10243/decentralised-planning-c781f37d9342)
