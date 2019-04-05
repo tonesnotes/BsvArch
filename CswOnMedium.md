@@ -246,3 +246,4 @@ Aliases used by CSW on Medium:
 1. <sub>2019-04-01 15:46</sub> [On testing and causal statements](https://medium.com/@craig_10243/on-testing-and-causal-statements-ce991f0c03e7)
 1. <sub>2019-04-02 16:55</sub> [Saving research](https://medium.com/@craig_10243/saving-research-97c9e63a3756)
 1. <sub>2019-04-03 07:48</sub> [Decentralized planning](https://medium.com/@craig_10243/decentralised-planning-c781f37d9342)
+1. <sub>2019-04-05 16:22</sub> [Satoshi Nakamoto](https://medium.com/@craig_10243/satoshi-nakamoto-a7c4cf21253e)
