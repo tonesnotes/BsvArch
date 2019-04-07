@@ -248,3 +248,4 @@ Aliases used by CSW on Medium:
 1. <sub>2019-04-03 07:48</sub> [Decentralized planning](https://medium.com/@craig_10243/decentralised-planning-c781f37d9342)
 1. <sub>2019-04-05 16:22</sub> [Satoshi Nakamoto](https://medium.com/@craig_10243/satoshi-nakamoto-a7c4cf21253e)
 1. <sub>2019-04-06 15:50</sub> [Two steps forward, one step back](https://medium.com/@craig_10243/two-steps-forward-one-step-back-1ef6e60ccd8e)
+1. <sub>2019-04-07 13:42</sub> [My Mentor](https://medium.com/@craig_10243/my-mentor-f6ea4b828da6)
