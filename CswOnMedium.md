@@ -250,4 +250,5 @@ Aliases used by CSW on Medium:
 1. <sub>2019-04-06 15:50</sub> [Two steps forward, one step back](https://medium.com/@craig_10243/two-steps-forward-one-step-back-1ef6e60ccd8e)
 1. <sub>2019-04-07 13:42</sub> [My Mentor](https://medium.com/@craig_10243/my-mentor-f6ea4b828da6)
 1. <sub>2019-04-07 15:13</sub> [Panopticrypt](https://medium.com/@craig_10243/panopticrypt-ed6154e06b34)
-1. <sub>2019-04-08 00:00</sub> [The Reason for Law](https://medium.com/@craig_10243/the-reason-for-law-8ffb7adc8957)
+1. <sub>2019-04-08 17:43</sub> [The Reason for Law](https://medium.com/@craig_10243/the-reason-for-law-8ffb7adc8957)
+1. <sub>2019-04-08 18:54</sub> [Bit Gold Is Not BitCoin](https://medium.com/@craig_10243/bit-gold-is-not-bitcoin-cea96eac20c9)
