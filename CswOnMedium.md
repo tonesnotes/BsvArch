@@ -253,3 +253,4 @@ Aliases used by CSW on Medium:
 1. <sub>2019-04-08 17:43</sub> [The Reason for Law](https://medium.com/@craig_10243/the-reason-for-law-8ffb7adc8957)
 1. <sub>2019-04-08 18:54</sub> [Bit Gold Is Not BitCoin](https://medium.com/@craig_10243/bit-gold-is-not-bitcoin-cea96eac20c9)
 1. <sub>2019-04-09 13:01</sub> [From simplicity comes …](https://medium.com/@craig_10243/from-simplicity-comes-1a19f9a85747)
+1. <sub>2019-04-10 15:58</sub> [Forget anonymity.](https://medium.com/@craig_10243/forget-anonymity-8c4ea82ad46a)
