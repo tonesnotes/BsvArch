@@ -255,3 +255,4 @@ Aliases used by CSW on Medium:
 1. <sub>2019-04-09 13:01</sub> [From simplicity comes …](https://medium.com/@craig_10243/from-simplicity-comes-1a19f9a85747)
 1. <sub>2019-04-10 15:58</sub> [Forget anonymity.](https://medium.com/@craig_10243/forget-anonymity-8c4ea82ad46a)
 1. <sub>2019-04-11 15:01</sub> [Bitcoin and Contract Jurisdiction](https://medium.com/@craig_10243/bitcoin-and-contract-jurisdiction-3ef4ec3091eb)
+1. <sub>2019-04-12 10:27</sub> [The Genesis of Genesis](https://medium.com/@craig_10243/the-genesis-of-genesis-5774b2fb9bc9)
