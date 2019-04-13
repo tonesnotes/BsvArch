@@ -258,3 +258,4 @@ Aliases used by CSW on Medium:
 1. <sub>2019-04-11 18:39</sub> [Trolls and bullies](https://medium.com/@craig_10243/trolls-and-bullies-d19287bb754d)
 1. <sub>2019-04-12 10:27</sub> [The Genesis of Genesis](https://medium.com/@craig_10243/the-genesis-of-genesis-5774b2fb9bc9)
 1. <sub>2019-04-12 12:01</sub> [Evidence and law](https://medium.com/@craig_10243/evidence-and-law-f8f10001efa5)
+1. <sub>2019-04-13 13:51</sub> [Patent wars…](https://medium.com/@craig_10243/patent-wars-24929b73f381)
