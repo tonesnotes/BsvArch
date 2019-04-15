@@ -260,3 +260,4 @@ Aliases used by CSW on Medium:
 1. <sub>2019-04-12 12:01</sub> [Evidence and law](https://medium.com/@craig_10243/evidence-and-law-f8f10001efa5)
 1. <sub>2019-04-13 13:51</sub> [Patent wars…](https://medium.com/@craig_10243/patent-wars-24929b73f381)
 1. <sub>2019-04-14 15:37</sub> [Bitcoin is not against banks](https://medium.com/@craig_10243/bitcoin-is-not-against-banks-fffb7b633fb0)
+1. <sub>2019-04-15 14:31</sub> [BTC and Censorship](https://medium.com/@craig_10243/btc-and-censorship-410265a8a4a2)
