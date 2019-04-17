@@ -262,3 +262,4 @@ Aliases used by CSW on Medium:
 1. <sub>2019-04-14 15:37</sub> [Bitcoin is not against banks](https://medium.com/@craig_10243/bitcoin-is-not-against-banks-fffb7b633fb0)
 1. <sub>2019-04-15 14:31</sub> [BTC and Censorship](https://medium.com/@craig_10243/btc-and-censorship-410265a8a4a2)
 1. <sub>2019-04-16 12:18</sub> [Wiki](https://medium.com/@craig_10243/wiki-2578e6c0ace5)
+1. <sub>2019-04-17 17:05</sub> [We don’t want to lead with “anonymous”](https://medium.com/@craig_10243/we-dont-want-to-lead-with-anonymous-a4890db7766d)
