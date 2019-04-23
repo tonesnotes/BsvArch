@@ -263,4 +263,5 @@ Aliases used by CSW on Medium:
 1. <sub>2019-04-15 14:31</sub> [BTC and Censorship](https://medium.com/@craig_10243/btc-and-censorship-410265a8a4a2)
 1. <sub>2019-04-16 12:18</sub> [Wiki](https://medium.com/@craig_10243/wiki-2578e6c0ace5)
 1. <sub>2019-04-17 17:05</sub> [We don’t want to lead with “anonymous”](https://medium.com/@craig_10243/we-dont-want-to-lead-with-anonymous-a4890db7766d)
-1. <sub>2019-04-20</sub> [The "Perfect" Firewall…](https://medium.com/@craig_10243/the-perfect-firewall-3d6971213a2b)
+1. <sub>2019-04-20 14:10</sub> [The "Perfect" Firewall…](https://medium.com/@craig_10243/the-perfect-firewall-3d6971213a2b)
+1. <sub>2019-04-23 15:16</sub> [The immovable](https://medium.com/@craig_10243/the-immovable-8aa39ee04515)
