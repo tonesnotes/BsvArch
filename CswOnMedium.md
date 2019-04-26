@@ -266,3 +266,4 @@ Aliases used by CSW on Medium:
 1. <sub>2019-04-20 14:10</sub> [The "Perfect" Firewall…](https://medium.com/@craig_10243/the-perfect-firewall-3d6971213a2b)
 1. <sub>2019-04-23 15:16</sub> [The immovable](https://medium.com/@craig_10243/the-immovable-8aa39ee04515)
 1. <sub>2019-04-25 06:40</sub> [Misinformation and the myth of Satoshi](https://medium.com/@craig_10243/misinformation-and-the-myth-of-satoshi-4aafdbf734b7)
+1. <sub>2019-04-26 07:54</sub> [Decentralised or just inefficient?](https://medium.com/@craig_10243/decentralised-or-just-inefficient-1eefecec03ff)
