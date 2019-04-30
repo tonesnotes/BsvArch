@@ -268,3 +268,4 @@ Aliases used by CSW on Medium:
 1. <sub>2019-04-25 06:40</sub> [Misinformation and the myth of Satoshi](https://medium.com/@craig_10243/misinformation-and-the-myth-of-satoshi-4aafdbf734b7)
 1. <sub>2019-04-26 07:54</sub> [Decentralised or just inefficient?](https://medium.com/@craig_10243/decentralised-or-just-inefficient-1eefecec03ff)
 1. <sub>2019-04-27 12:28</sub> [The wheel of time is not on an axis](https://medium.com/@craig_10243/the-wheel-of-time-is-not-on-an-axis-ccefa8963f6)
+1. <sub>2019-04-30 13:08</sub> [The puzzle of the double hash](https://medium.com/@craig_10243/the-puzzle-of-the-double-hash-968196edb06d)
