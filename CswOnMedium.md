@@ -270,3 +270,4 @@ Aliases used by CSW on Medium:
 1. <sub>2019-04-27 12:28</sub> [The wheel of time is not on an axis](https://medium.com/@craig_10243/the-wheel-of-time-is-not-on-an-axis-ccefa8963f6)
 1. <sub>2019-04-30 13:08</sub> [The puzzle of the double hash](https://medium.com/@craig_10243/the-puzzle-of-the-double-hash-968196edb06d)
 1. <sub>2019-05-08 11:02</sub> [Don’t be fooled — Bitcoin is not BTC](https://medium.com/@craig_10243/dont-be-fooled-bitcoin-is-not-btc-61e6aee8ac53)
+1. <sub>2019-05-10 15:59</sub> [Custodial standards](https://medium.com/@craig_10243/custodial-standards-9dbcfe1f4c4e)
