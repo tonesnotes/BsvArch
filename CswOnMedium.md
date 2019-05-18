@@ -274,3 +274,4 @@ Aliases used by CSW on Medium:
 1. <sub>2019-05-13 06:41</sub> [Crypto flim-flam](https://medium.com/@craig_10243/crypto-flim-flam-6b4ff367b634)
 1. <sub>2019-05-14 12:57</sub> [Money is a measuring stick](https://medium.com/@craig_10243/money-is-a-measuring-stick-6f5fe9cb8c9d)
 1. <sub>2019-05-16 18:07</sub> [Institutional madness](https://medium.com/@craig_10243/institutional-madness-6f4fade7b9fc)
+1. <sub>2019-05-18 07:17</sub> [Why Code must not be law](https://medium.com/@craig_10243/why-code-must-not-be-law-438e2cafe2e4)
