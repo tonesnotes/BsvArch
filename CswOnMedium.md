@@ -275,3 +275,5 @@ Aliases used by CSW on Medium:
 1. <sub>2019-05-14 12:57</sub> [Money is a measuring stick](https://medium.com/@craig_10243/money-is-a-measuring-stick-6f5fe9cb8c9d)
 1. <sub>2019-05-16 18:07</sub> [Institutional madness](https://medium.com/@craig_10243/institutional-madness-6f4fade7b9fc)
 1. <sub>2019-05-18 07:17</sub> [Why Code must not be law](https://medium.com/@craig_10243/why-code-must-not-be-law-438e2cafe2e4)
+)
+1. <sub>2019-05-20 19:06</sub> [Funding and rights](https://medium.com/@craig_10243/funding-and-rights-baf26b37947f)
