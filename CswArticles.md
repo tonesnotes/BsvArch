@@ -1,4 +1,4 @@
-# CSW Articles
+# Articles by Craig S. Wright, aka Satoshi Nakamoto, Inventor of Bitcoin
 
 ![Archive](https://github.com/tonesnotes/BsvArch/blob/master/Archive.jpg "CSW Medium Archive")
 
