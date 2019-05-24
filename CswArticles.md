@@ -1,9 +1,10 @@
-# Articles by Craig S. Wright, aka Satoshi Nakamoto, Inventor of Bitcoin
+# 263 Articles by Craig S. Wright, aka Satoshi Nakamoto, Inventor of Bitcoin
 
 ![Archive](https://github.com/tonesnotes/BsvArch/blob/master/Archive.jpg "CSW Medium Archive")
 
 ## Articles Posted on [CraigWright.net](http://craigwright.net/)
 1. <sub>2019-05-23</sub> [Satoshi and the Sophists](https://craigwright.net/blog/bitcoin-blockchain-tech/satoshi-and-the-sophists/)
+1. <sub>2019-05-24</sub> [Shades of Black…](https://craigwright.net/blog/bitcoin-blockchain-tech/shades-of-black/)
 
 ## Articles originally posted on [Medium.com](http://medium.com/)
 
