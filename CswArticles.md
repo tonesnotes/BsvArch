@@ -5,6 +5,8 @@
 ## Articles Posted on [CraigWright.net](http://craigwright.net/)
 1. <sub>2019-05-23</sub> [Satoshi and the Sophists](https://craigwright.net/blog/bitcoin-blockchain-tech/satoshi-and-the-sophists/)
 1. <sub>2019-05-24</sub> [Shades of Black…](https://craigwright.net/blog/bitcoin-blockchain-tech/shades-of-black/)
+1. <sub>2019-05-29</sub> [The GST Story](https://craigwright.net/blog/bitcoin-blockchain-tech/the-gst-story-2/)
+1. <sub>2019-05-30</sub> [Satoshi and Science](https://craigwright.net/blog/bitcoin-blockchain-tech/satoshi-and-science/)
 
 ## Articles originally posted on [Medium.com](http://medium.com/)
 
